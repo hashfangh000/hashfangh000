@@ -8,8 +8,6 @@
 - 于是就有了[后端闭关修炼](https://feecoding.cn)，后续会继续更新。
 #### 我的作品
 - 作品：[后端闭关修炼](https://feecoding.cn)
-
-一名
 <!--
 **hashfangh000/hashfangh000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
